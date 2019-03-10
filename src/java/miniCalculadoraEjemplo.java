@@ -17,8 +17,9 @@ public class miniCalculadoraEjemplo {
      * @return double 
      */
     public double valorAbsoluto(double numero){
-        double x = Math.abs(numero);
-        return x;
+        double numeroX = Math.abs(numero);
+        return numeroX;
+        
     }
     
     /**
